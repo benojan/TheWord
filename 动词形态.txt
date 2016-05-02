@@ -1,0 +1,235 @@
+动词的：
+	驮	dou2
+1	驮死	dou2 sy
+1	驮爽	dou2 song3
+1	佐队驮	cou3 dei6 dou9
+1	述队驮	jioh dei6 dou9
+1	佐队迲驮	cou3 dei6 kheh7 dou2
+1	述队迲驮	jioh dei6 kheh7 dou2
+1	弗驮	feh7 dou2
+1	懒leh驮	lhan3 leh dou2
+1	驮个	dou2 keh
+1	驮玱	dou2 chiang
+1	驮记	dou2 ki
+1	驮记驮记	dou2 ki dou2 ki
+1	驮驮驮驮	dou2 dou dou2 dou
+1	驮旁	dou2 bong
+1	驮tan	dou2 tan
+1	驮leh旁	dou2 leh bong
+1	驮上来	dou2 zong4 lei
+1	驮上去	dou2 zong4 khei
+1	驮上迲	dou2 zong4 kheh
+1	驮落来	dou2 lok lei
+1	驮落去	dou2 lok khei
+1	驮落迲	dou2 lok kheh
+1	驮牢定	dou2 lao2 din
+1	驮肚快	dou2 dou4 khua5
+1	驮绽	dou2 dzan6
+1	驮来健	dou2 lei gian6
+1	驮凑	dou2 cheo5
+1	驮来凑	dou2 lei cheo5
+1	驮眼	dou2 nkan
+1	驮眼凑	dou2 nkan cheo5
+1	驮眼凑凑	dou2 nkan cheo5 cheo
+1	驮眼来	dou2 nkan lei
+1	驮眼来凑	dou2 nkan lei cheo5
+1	驮眼来凑凑	dou2 nkan lei cheo5 cheo
+1	驮粒	dou2 nhoh
+1	驮粒来	dou2 nhoh lei
+1	驮粒凑	dou2 nhoh cheo5
+1	驮粒凑凑	dou2 nhoh cheo5 cheo
+1	驮粒来凑	dou2 nhoh lei cheo5
+1	驮粒来凑凑	dou2 nhoh lei cheo5 cheo
+1	驮到	dou2 tao5
+1	驮倒	dou2 tao3
+1	驮绽驮爻	dou2 dzan6 dou2 rao
+1	驮来正是	dou2 lei cin1 zy4
+1	驮来勿是	dou2 lei veh8 zy4
+1	驮上驮	dou2 zong6 dou2
+1	驮开	dou2 khei
+1	击驮	kih7 dou2
+1	一记驮	ih7 ki5 dou2
+1	约驮紧	iak7 dou2 kin3
+1	呒较驮	m2 kao5 dou2
+1	有较驮	ieo3 kao5 dou2
+1	𠏕驮	hiao5 dou2
+1	𠏕驮着	hiao5 dou2 djiak
+1	𠏕pei驮着	hiao5 pei5 dou2 djiak
+1	𠏕驮着佢	hiao5 dou2 djiak gei
+1	𠏕驮爻	hiao5 dou2 rao
+1	𠏕驮来	hiao5 dou2 lei
+1	𠏕驮去	hiao5 dou2 khei
+1	𠏕驮迲	hiao5 dou2 kheh
+1	𠏕驮开	hiao5 dou2 khei
+1	𠏕驮出	hiao5 dou9 chv
+1	𠏕迲驮	hiao5 kheh dou2
+1	𠏕趒去驮	hiao5 diao4 khei5 dou2
+1	𠏕趒迲驮	hiao5 diao4 kheh dou2
+1	甮驮	vung6 dou9
+1	甮驮爻	vung6 dou9 rao
+1	甮驮来	vung6 dou9 khei
+1	甮驮去	vung6 dou9 khei
+1	甮驮迲	vung6 dou2 kheh
+1	甮驮开	vung6 dou2 khei
+1	甮驮出	vung6 dou9 chv
+1	甮迲驮	vung6 kheh dou2
+1	甮趒去驮	vung6 diao4 khei dou2
+1	甮趒迲驮	vung6 diao4 kheh dou2
+1	甮見驮	vung6 kian5 dou2
+1	甮見驮着	vung6 kian5 dou2 djiak8
+1	个驮驮来	keh7 dou2 dou2 lei
+1	个驮驮去	keh7 dou2 dou2 khei
+1	个驮驮迲	keh7 dou2 dou2 kheh
+1	个驮驮着	keh7 dou2 dou2 djiak
+1	ueh驮	ueh7 dou2
+1	vei驮	vei9 dou2
+1	好驮	hao3 dou2
+1	孬驮	fao9 dou2
+1	呒漆驮	m2 chih7 dou2
+1	有leh驮	ieo3 leh8 dou2
+1	呒leh驮	m2 leh8 dou2
+1	还朆驮	wa2 hng9 dou2
+1	有可驮	ieo3 kha3 dou2
+1	呒可驮	m2 kha3 dou2
+1	呒可驮驮	m2 kha3 dou2 dou2
+1	驮功	dou2 kung1
+1	驮leh动	dou2 leh8 dung4
+1	驮弗动	dou2 feh7 dung4
+1	驮leh进	dou2 leh8 cin5
+1	驮弗进	dou2 feh7 cin5
+1	驮leh牢	dou2 leh8 lao2
+1	驮弗牢	dou2 feh7 lao2
+1	驮leh过	dou2 leh8 kou5
+1	驮弗过	dou2 feh7 kou5
+1	驮leh着	dou2 leh8 djiak8
+1	驮弗着	dou2 feh7 djiak8
+1	驮leh出	dou2 leh8 chioh7
+1	驮弗出	dou2 feh7 chioh7
+1	驮leh到	dou2 leh8 tao5
+1	驮弗到	dou2 feh7 tao5
+1	驮leh好	dou2 leh8 hao3
+1	驮弗好	dou2 feh7 hao3
+1	驮leh洎	dou2 leh8 gi6
+1	驮弗洎	dou2 feh7 gi6
+1	驮leh上	dou2 leh8 zong4
+1	驮弗上	dou2 feh7 zong4
+1	驮leh落	dou2 leh8 lok8
+1	驮弗落	dou2 feh7 lok8
+1	驮leh起 dou2 leh8 khi3
+1	驮弗起	dou2 feh7 khi3
+1	驮leh死 dou2 leh8 sy3
+1	驮弗死	dou2 feh7 sy3
+
+1	驮畀	dou2 peh7
+1	驮牢	dou2 lao
+1	驮牢牢	dou2 lao2 lao2
+1	暴驮	bao6 dou9
+
+1	驮弗逮	dou2 feh7 dei6
+1	驮leh逮	dou2 leh8 dei6
+
+1	驮边	dou2 pian1
+1	驮走	dou2 ceo
+
+1	驮起	dou2 khi
+1	驮起来	dou2 khih lei
+1	驮起liao	dou2 khih liao
+1	驮出	dou2 chv
+1	驮出来	dou2 chioh lei
+1	驮出liao	dou2 chioh liao
+1	驮出爻	dou2 chioh rao
+1	驮过	dou2 kou
+1	驮过来	dou2 kou
+1	驮过liao	dou2 kou liao
+1	驮转	dou2 cion3
+1	驮转来	dou2 cion3 lei
+1	驮转去	dou2 cion3 khei
+1	驮转liao	dou2 cion3 liao
+1	驮转khao	dou2 cion3 khao
+1	驮转迲	dou2 cion3 kheh
+1	驮转出	dou2 cion3 chv
+1	驮转出来	dou2 cion3 chioh lei
+1	驮转起	dou2 cion3 khi
+
+1	驮驮	dou2 dou
+1	驮驮向	dou2 dou hiang
+1	驮驮来	dou2 dou lei
+1	驮驮去	dou2 dou khei
+1	驮驮迲	dou2 dou kheh
+1	驮驮爻	dou2 dou rao
+1	驮眼爻	dou2 nkan rao
+1	驮粒爻	dou2 nhoh rao
+1	驮驮出	dou2 dou chv
+1	驮驮过	dou2 dou kou
+1	驮驮起	dou2 dou khi
+1	驮驮动	dou2 dou2 dung4
+
+1	呒较驮驮	m2 kao5 dou2 dou
+1	有较驮驮	ieo3 kao5 dou2 dou
+
+1	驮爻	dou2 rao
+1	朆驮	hng9 dou2
+1	驮dao	dou2 dao
+1	驮fao	dou2 fao9
+1	驮及giao	dou2 gih giao
+1	驮及来	dou2 gih lei
+1	驮及去	dou2 gih khei
+1	驮及迲	dou2 gih kheh
+1	驮及到	dou2 gih8 tao5
+1	驮及旁	dou2 gih8 bong
+1	驮及弗来	dou2 gih8 feh7 lei2
+1	驮及弗去	dou2 gih8 feh7 khei5
+1	驮及死	dou2 gih8 sy3
+1	驮及死	dou2 gih8 sy3
+1	驮佢yi死	dou2 gei2 yi sy3
+
+1	驮着	dou2 djiak
+1	朆驮	hng9 dou2
+1	驮djiao	dou2 djiao
+1	朆驮着	hng9 dou2 djiak
+
+1	驮过爻	dou2 kou rao
+1	朆驮过	hng9 dou2 kou
+
+1	驮来	dou2 lei
+1	弗驮来	feh7 dou2 lei
+
+1	驮leh来	dou2 leh lei
+1	驮leh liao	dou2 leh liao
+1	驮弗来	dou2 feh7 lei2
+1	还驮弗来	wa2 dou2 feh7 lei2
+1	驮弗liao	dou2 feh7 liao
+
+1	驮liao	dou2 liao
+1	朆驮来	hng9 dou2 lei
+1	还朆驮来	wa2 hng9 dou2 lei
+
+1	要勒得驮	iao5 leh teh dou2
+1	要弗得驮	iao5 feh teh dou2
+1	还要勒得驮	wa2 iao5 leh teh dou2
+1	还要弗得驮	wa2 iao5 feh teh dou2
+
+1	驮去	dou2 khei
+1	驮迲	dou2 kheh
+1	驮弗去	dou2 feh7 khei5
+1	弗驮迲	feh7 dou2 kheh
+1	驮khao	dou2 khao
+
+1	驮着驮爻	cak7 djih8 cak7 rao
+1	猴驮来驮	reo2 dou2 lei2 dou
+
+1	驮断	dou2 don4
+1	驮leh断	dou2 leh8 don4
+1	驮弗断	dou2 feh7 don4
+
+硬驮
+驮碎
+驮两断
+驮两爿
+照我来讲
+噢佢(趒)来写
+巴弗得、望弗得、要弗得
+望弗懂
+讲leh听 kong3 leh8 thin5
+讲弗听	kong3 feh7 thin5
+讲声、问声
