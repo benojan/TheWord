@@ -147,6 +147,10 @@
 1	掴liao	kuak7 liao
 1	掴弗liao	kuak7 feh7 liao2
 1	掴khao	kuak7 khao
+	扇	xian5
+	扇绕颈	xian5 niao6 kin3
+	扇蒲扇	xian5 bu2 xian5
+	扇电风扇	xian5 dian6 fung1 xian5
 	拍	phak7	㊀分开，掰开。㊁拍照。
 	拍脚	phak7 kiak7
 	拍开	phak7 khei
@@ -638,6 +642,8 @@
 	咣来	guang6 lei2
 	门咣来	men2 guang6 lei2
 	咣响	guang6 hiang9
+	ang	ang1	㊀弯折。
+	ang刀	ang1 tao9
 	碰	bang6	㊀遇见。
 	缉	chih7	㊀编织。
 	缉毛线衫	chih7 mao2 xian5 san9
@@ -665,8 +671,6 @@
 	咜老鼠	tha1 lhao3 chy3
 	咜人	tha1 nin2
 	咜鞋拖	tha1 ra2 thu9
-	拎	lhin1	㊀头向后转。
-	头拎转	deo2 lhin1 cion3	转头
 	批	phi1
 	批皮	phi1 bi9
 	批糖梗	phi1 dong2 kuang3
