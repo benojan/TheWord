@@ -836,4 +836,5 @@
 	向	hiang5	㊀朝向。
 	向门	hiang5 men9
 	落	lok8	㊀丢失。
+	落爻	lao9	丢了
 	yong	yong6	㊀摇晃。
