@@ -1,23 +1,23 @@
 1	ang	ang1	ang1	㊀弯折。
 	ang刀	ang1	ang1 tao9	
 1	拗	ao5	ao5	㊀使（凳子等）翘起。
-	拗兜	ao5	ao5 teo9	
 	拗拗板	ao5	ao5 ao5 pan9	
+	拗兜	ao5	ao5 teo9	
 	拗手腰掼里	ao5	ao5 xieo3 iao1 guan6 lhi	
 1	拔	bah8	bah8	㊀抽，拉。㊁拿出。㊂抓，捉拿。
 	拔钞票	bah8	bah8 chao3 phiao5	
-	拔刀	bah8	bah8 tao1	
 	拔电线	bah8	bah8 dian6 xian5	
 	拔肚	bah8	bah8 du4	
+	拔牙齿	bah8	bah8 ngo2 chy3	
+	拔刀	bah8	bah8 tao1	
 	拔小人	bah8	bah8 xiao3 nin9	
 	拔小偷	bah8	bah8 xiao3 theo9	
-	拔牙齿	bah8	bah8 ngo2 chy3	
 	拔贼	bah8	bah8 zeh8	
 	刀拔出	bah8	tao1 bah8 chv9	
 	贼拔牢	bah8	zeh8 bah8 lao2	
 	bang	bang4	bang4	
-	bang垃圾	bang4	bang4 leh8 seh7	
 	bang篮球	bang4	bang4 lan2 gieo2	
+	bang垃圾	bang4	bang4 leh8 seh7	
 1	碰	bang6	bang6	㊀遇见。
 1	铇	bao6	bao6	㊀刨。
 	铇铅笔	bao6	bao6 khan3 pih7	
@@ -27,21 +27,21 @@
 1	鐾	bi6	bi6	㊀在皮布上摩擦。
 1	盘	bon2	bon2	
 	盘后髋	bon2	bon2 eo3 khun9	
-	手骨盘后髋	bon2	xieo3 kueh7 bon2 eo3 khun9	
 	手盘后髋	bon2	xieo3 bon2 eo3 khun9	
-1	拌	bon4	bon4	㊀搅拌。
+	手骨盘后髋	bon2	xieo3 kueh7 bon2 eo3 khun9	
 	拌水泥	bon4	bon2 xv3 ni2	
+1	拌	bon4	bon4	㊀搅拌。
 1	摘	cak7	cak7	㊀被东西扎到，绊到。
 	摘着摘爻	cak7	cak7 djih8 cak7 rao	
 1	斩	can3	can3	㊀使部分东西斩出。
 1	抓	cao1	cao1	㊀挠，搔：~~痒。
 	抓抓痒	cao1	cao1 cao1 iang9	
-	衫袖头爪起	cao3	san1 jieo6 deo2 cao3 khi	
-	衫袖爪起	cao3	san1 jieo6 cao3 khi	
 1	爪	cao3	cao3	㊀抓住，紧握住。
 1	找	cao3	cao3	㊀退回，补足。
 	找钞票	cao3	cao3 chao3 phiao5	
 	找多少	cao3	cao3 tou1 xiao3	
+	衫袖爪起	cao3	san1 jieo6 cao3 khi	
+	衫袖头爪起	cao3	san1 jieo6 deo2 cao3 khi	
 1	罩	cao5	cao5	
 1	插	chah7	chah7	
 1	拆	chak7	chak7	㊀把合在一起的东西分开。
@@ -50,10 +50,10 @@
 1	搀	chan1	chan1	㊀插。
 1	撑	chang5	chang5	㊀挣钱。㊁支撑。
 	撑钞票	chang5	chang5 chao3 phiao5	
-	撑凉伞	chang5	chang5 liang2 san5	
 	撑铜钱	chang5	chang5 dung2 dian2	
-	撑阳伞	chang5	chang5 yang2 san5	
+	撑凉伞	chang5	chang5 liang2 san5	
 	撑雨伞	chang5	chang5 v3 san9	
+	撑阳伞	chang5	chang5 yang2 san5	
 1	抄	chao1	chao1	
 	照抄	chao1	ciao5 chao1	
 1	耖	chao5	chao5	㊀胡乱翻找。
@@ -68,15 +68,15 @@
 	扦主网	chian1	chian1 cv3 mhong9	
 1	抢	chiang3	chiang3	
 1	缲	chiao1	chiao1	
-	缲边	chiao1	chiao1 pian1	
 	缲脚缏	chiao1	chiao1 kiak7 bian9	
+	缲边	chiao1	chiao1 pian1	
 1	抽	chieo1	chieo1	㊀吸收（水分、温度）：𠏕弹leh地di去，慢抽爻无用。
 1	缉	chih7	chih7	㊀编织。
+	缉衣裳	chih7	chih7 i1 zong2	
 	缉毛线衫	chih7	chih7 mao2 xian5 san9	
 	缉帽碗	chih7	chih7 mao6 uon9	
-	缉围巾	chih7	chih7 yv2 kin1	
 	缉鞋	chih7	chih7 ra2	
-	缉衣裳	chih7	chih7 i1 zong2	
+	缉围巾	chih7	chih7 yv2 kin1	
 1	戳	chiok7	chiok7	
 	戳眼	chiok7	chiok7 nkan3	
 	手戳戳	chiok7	xieo3 chiok7 chiok	
@@ -85,38 +85,38 @@
 1	撮	choh7	choh7	
 1	搓	chou1	chou1	㊀摩擦，用手用力擦。
 	搓漆垽膏	chou1	chou1 chih7 nin6 kao9	
-	搓手	chou1	chou1 xieo3	
-	搓橡皮揩	chou1	chou1 jiang2 bi2 kha9	
-	搓洋袜	chou1	chou1 yang2 mah8	
 	搓衣裳	chou1	chou1 i1 zong2	
+	搓橡皮揩	chou1	chou1 jiang2 bi2 kha9	
+	搓手	chou1	chou1 xieo3	
+	搓洋袜	chou1	chou1 yang2 mah8	
 1	挤	ci3	ci3	
-	挤奶	ci3	ci3 nha1	
 	挤牙膏	ci3	ci3 ngo2 kao1	
+	挤奶	ci3	ci3 nha1	
 1	接	ciah7	ciah7	
 1	着	ciak7	ciak7	㊀锅中放水：烧滚爻水~眼落去。㊁放下：我搭佢lei㙮ㄦ~象棋。
 1	剪	cian3	cian3	
 1	剪	cian3	cian3	
 1	櫼	cin1	cin1	㊀塞。
-	櫼尿櫼	cin1	cin1 xv1 cin1	
 	櫼瓶櫼	cin1	cin1 bin2 cin9	
+	櫼尿櫼	cin1	cin1 xv1 cin1	
 1	捉	ciok7	ciok7	㊀抓，捉拿。㊁捡东西。㊂收拾。
 	捉拾	ciok7	ciok7 jih8	㊀收拾，整理。
 1	桩	ciong1	ciong1	㊀扶稳。
 1	斫	cok7	cok7	㊀砍。
-	斫柴	cok7	cok7 za2	
 	斫猪肉	cok7	cok7 cy1 niuk8	
+	斫柴	cok7	cok7 za2	
 1	妆	cong1	cong1	㊀做。
-	妆扮	cong1	cong1 pan5	
-	妆饭	cong1	cong1 van6	
-	妆哬某	cong1	cong1 ra2 mh	
-	妆吤某	cong1	cong1 ka3 mh	
 	妆妆	cong1	cong1 cong9	
+	妆吤某	cong1	cong1 ka3 mh	
+	妆扮	cong1	cong1 pan5	
+	妆哬某	cong1	cong1 ra2 mh	
+	妆饭	cong1	cong1 van6	
 1	做	cou5	cou5	
 	做厂	cou5	cou5 chiang3	
-	做螺丝	cou5	cou5 lou2 sy1	
-	做生日	cou5	cou5 sang1 nih8	
-	做生意	cou5	cou5 sang1 i5	
 	做戏	cou5	cou5 hi5	
+	做螺丝	cou5	cou5 lou2 sy1	
+	做生意	cou5	cou5 sang1 i5	
+	做生日	cou5	cou5 sang1 nih8	
 	做游戏	cou5	cou5 yeo2 hi5	
 1	掏	dao2	dao2	㊀推。
 1	填	dian2	dian2	
@@ -124,9 +124,9 @@
 1	掷	djih8	djih8	㊀抛，抛洒。
 	掷色ㄦ	djih8	djih8 sen9	
 1	戳	djiok8	djiok8	㊀敲，压。
+	戳章	djiok8	djiok8 cong1	
 	戳公章	djiok8	djiok8 kung1 cong1	
 	戳私章	djiok8	djiok8 sy1 cong1	
-	戳章	djiok8	djiok8 cong1	
 1	撞	djiong6	djiong6	㊀扔。㊁叠起来。
 	撞石头	djiong6	djiong6 jih8 deo9	
 1	抟	don2	don2	
@@ -150,74 +150,74 @@
 	搿小人	gah8	gah8 xiao3 nin9	
 1	陷	gan6	gan6	㊀挤。
 1	馅	gan6	gan6	㊀包馅。
+	馅猪肉	gan6	gan6 cy1 niuk8	
+	馅头	gan6	gan6 deo2	
+	馅糖霜	gan6	gan6 dong2 song1	
 	馅糕	gan6	gan6 kao9	
 	馅红糖	gan6	gan6 ng2 dong2	
 	馅拭饼	gan6	gan6 xih7 pin3	
-	馅糖霜	gan6	gan6 dong2 song1	
-	馅头	gan6	gan6 deo2	
 	馅盐菜	gan6	gan6 yan2 chei5	
-	馅猪肉	gan6	gan6 cy1 niuk8	
 1	撬	giao4	giao4	
 1	撬	giao4	giao4	㊀批发。
 	挤扛	gong6	ci3 gong6	拥挤
 1	扛	gong6	gong6	㊀承受，熬。
 	扛夜	gong6	gong6 ya6	熬夜
 1	掼	guan6	guan6	㊀摔。
-	掼倒	guan6	guan6 tao9	
 	掼物事	guan6	guan6 meh8 zy6	
+	掼倒	guan6	guan6 tao9	
 1	咣	guang6	guang6	㊀大力关门。
+	咣响	guang6	guang6 hiang9	
 	咣来	guang6	guang6 lei2	
 	咣门	guang6	guang6 men2	
-	咣响	guang6	guang6 hiang9	
 	门咣	guang6	men2 guang6	
 	门咣来	guang6	men2 guang6 lei2	
 1	夯	hang1	hang1	
 1	向	hiang5	hiang5	㊀朝向。
 	向门	hiang5	hiang5 men9	
-1	hiao	hiao1	hiao1	㊀掀开，揭起。
-	hiao碗	hiao1	hiao1 uon3	
 	被hiao开	hiao1	bi4 hiao1 khei	
 	被hiao爻	hiao1	bi4 hiao1 rao	
+1	hiao	hiao1	hiao1	㊀掀开，揭起。
+	hiao碗	hiao1	hiao1 uon3	
 	碗hiao hiao来	hiao1	uon3 hiao1 hiao1 lei	
 	碗hiao khao	hiao1	uon3 hiao1 khao	
-	碗hiao liao	hiao1	uon3 hiao1 liao	
-	碗hiao来	hiao1	uon3 hiao1 lei	
 	碗hiao去	hiao1	uon3 hiao1 khei	
+	碗hiao来	hiao1	uon3 hiao1 lei	
+	碗hiao liao	hiao1	uon3 hiao1 liao	
 1	擤	hng3	hng3	㊀擤鼻涕。
 	擤鼻头涕	hng3	hng3 beh8 deo2 thi5	
 1	下	ho3	ho3	㊀取下穿戴物。㊁播撒。
-	下料	ho3	ho3 liao6	
-	下落	ho3	ho3 lok8	
-	下落来	ho3	ho3 lok lei	
-	下帽碗	ho3	ho3 mao6 uon9	
-	下手龙	ho3	ho3 xieo3 lung9	
-	下项链	ho3	ho3 ong3 lian6	
-	下秧	ho3	ho3 iang9	
 	下种	ho3	ho3 ciung3	
 	下籽	ho3	ho3 cy3	
+	下秧	ho3	ho3 iang9	
+	下料	ho3	ho3 liao6	
+	下落来	ho3	ho3 lok lei	
+	下落	ho3	ho3 lok8	
+	下帽碗	ho3	ho3 mao6 uon9	
+	下项链	ho3	ho3 ong3 lian6	
+	下手龙	ho3	ho3 xieo3 lung9	
 1	豁	huah7	huah7	
-	豁柴绳	huah7	huah7 za2 jin9	
 	豁拳	huah7	huah7 gion9	
+	豁柴绳	huah7	huah7 za2 jin9	
 	huan	huan3	huan3	㊀轻轻缠绕。
 	huang倒	huang3	huang3 tao3	
 1	舀	iao3	iao3	
 	舀酱油	iao3	iao3 ciang5 yeo2	
 	舀酒	iao3	iao3 cieo3	
-	舀水	iao3	iao3 xv3	
 	舀汤	iao3	iao3 thong9	
+	舀水	iao3	iao3 xv3	
 1	实	jih8	jih8	㊀堵住。
 	实牢	jih8	jih8 lao	堵住了
 1	解	ka3	ka3	
 	解锯	ka3	ka3 kei5	
 	解木头	ka3	ka3 muk8 deo9	
-	饭减减爻	kan3	van6 kan3 kan rao	
-	饭减粒爻	kan3	van6 kan3 nhoh rao	
-	饭减眼爻	kan3	van6 kan3 nkan rao	
-	饭减爻	kan3	van6 kan3 rao	
 1	拣	kan3	kan3	㊀拣择，挑选。
 1	减	kan3	kan3	
 	减菜蔬	kan3	kan3 chei5 su3	
 	减饭	kan3	kan3 van6	
+	饭减减爻	kan3	van6 kan3 kan rao	
+	饭减粒爻	kan3	van6 kan3 nhoh rao	
+	饭减眼爻	kan3	van6 kan3 nkan rao	
+	饭减爻	kan3	van6 kan3 rao	
 1	更	kang5	kang5	㊀横扫。㊁去掉汤水上悬浮的杂质。
 1	交	kao1	kao1	
 	交托	kao1 thok7	kao1 thok7	
@@ -227,18 +227,18 @@
 	搅手机	kao3	kao3 xieo3 ki9	
 	搅游戏	kao3	kao3 yeo2 hi5	
 1	铰	kao5	kao5	㊀安装。
+1	校	kao5	kao5	㊀设置。
 	铰电风扇	kao5	kao5 dian6 fung1 xian5	
 	铰电话	kao5	kao5 dian6 wa6	
 	铰空调	kao5	kao5 khung1 diao6	
-1	校	kao5	kao5	㊀设置。
 	校闹钟	kao5	kao5 nao6 ciung9	
 1	揩	kha1	kha1	㊀触碰。
 	揩油	kha1	kha1 yeo9	
 1	敲	khao1	khao1	㊀敲击。
 	敲白糖	khao1	khao1 bak8 dong9	
-	敲边	khao1	khao1 pian1	
-	敲门	khao1	khao1 men2	
 	敲竹杠	khao1	khao1 ciuk7 kong5	
+	敲门	khao1	khao1 men2	
+	敲边	khao1	khao1 pian1	
 	开门	khei1	khei1 men2	
 1	起	khi3	khi3	
 	起屋	khi3	khi3 uk7	
@@ -252,11 +252,11 @@
 	手牵手	khian1	xieo3 khian1 xieo9	
 1	𥫷	khieo1	khieo1	
 	𥫷桶	khieo1	khieo1 dung9	
-1	揿	khin5	khin5	㊀掐住脖子。
 	头颈揿牢	khin5	deo2 kin9 khin5 lao	
+1	揿	khin5	khin5	㊀掐住脖子。
 1	揢	kho5	kho5	㊀拿捏：揢箸teh揢笔弗样。
-	揢笔	kho5	kho5 pih7	
 	揢箸	kho5	kho5 dzy6	
+	揢笔	kho5	kho5 pih7	
 1	囥	khong5	khong5	㊀放。
 	囥床	khong5	khong5 zong2	
 1	箍	khu1	khu1	
@@ -274,31 +274,31 @@
 	扛物事	kong1	kong1 meh8 zy6	
 1	剐	kua3	kua3	
 1	掴	kuak7	kuak7	㊀拍。
-	掴掴手	kuak7	kuak7 kuak7 xieo9	拍手。
-	掴两记	kuak7	kuak7 lhiang3 ki0	
-	掴绕颈	kuak7	kuak7 niao6 kin3	扇巴掌。
-	掴手	kuak7	kuak7 xieo9	拍手。
-	掴蚊虫	kuak7	kuak7 men2 djiung2	
 	掴照	kuak7	kuak7 ciao5	拍照。
 	掴桌打凳	kuak7	kuak7 ciok7 tang3 ten5	拍桌子，摔凳子。
-	绕颈pei掴死	kuak7	niao6 kin3 pei1 kuak7 sy0	
-	绕颈畀尔哽	kuak7	niao6 kin3 peh7 nh3 gang4	
+	掴掴手	kuak7	kuak7 kuak7 xieo9	拍手。
+	掴两记	kuak7	kuak7 lhiang3 ki0	
+	掴蚊虫	kuak7	kuak7 men2 djiung2	
+	掴绕颈	kuak7	kuak7 niao6 kin3	扇巴掌。
+	掴手	kuak7	kuak7 xieo9	拍手。
 	绕颈掴死	kuak7	niao6 kin3 kuak7 sy0	
+	绕颈畀尔哽	kuak7	niao6 kin3 peh7 nh3 gang4	
+	绕颈pei掴死	kuak7	niao6 kin3 pei1 kuak7 sy0	
 	关门	kuan1	kuan1 men2	
 1	光	kuong5	kuong5	㊀搓，抵着来回擦。打角ㄦ～去。
 1	举	kv3	kv3	
-	举手	kv3	kv3 xieo3	
 	举重	kv3	kv3 djiung4	
+	举手	kv3	kv3 xieo3	
 1	拦	lan2	lan2	㊀阻拦。
 	落爻	lao9	lao9	丢了
+	拉链	lha3	lha1 lian6	
 1	拉	lha3	lha3	
 	拉镜	lha3	lha3 kin5	
-	拉链	lha3	lha1 lian6	
 	拉票	lha3	lha3 phiao5	
 1	搂	lheo1	lheo1	㊀抠，挖。
-	搂鼻头	lheo1	lheo1 beh8 deo9	
 	搂鼻头屙	lheo1	lheo1 beh8 deo2 ei5	
 	搂鼻头屙	lheo1	lheo1 beh8 deo2 ou5	
+	搂鼻头	lheo1	lheo1 beh8 deo9	
 	搂耳朵	lheo1	lheo1 nk3 thou9	
 1	理	lhi3	lhi3	㊀整理。
 1	㧕	lhieo3	lhieo3	㊀旋转搅捣。
@@ -316,106 +316,106 @@
 1	撩	liao2	liao2	㊀捞取。
 	口舌撩鼻头	liao6	kheo3 jih8 liao6 beh8 deo2	
 1	撩	liao6	liao6	㊀伸向远处够取东西。
-	撩手痒	liao6	liao6 xieo3 iang9	
 	撩物事	liao6	liao6 meh8 zy6	
+	撩手痒	liao6	liao6 xieo3 iang9	
 1	落	lok8	lok8	㊀丢失。
 1	㫰	long2	long2	
-	㫰㫰燥	long2	long2 long2 sao5	
 	㫰衣裳	long2	long2 i1 zong2	
+	㫰㫰燥	long2	long2 long2 sao5	
 1	录	luk8	luk8	㊀攒钱，积蓄。
+	拳头抡去	lun6	gion2 deo2 lun6 khei9	
 1	抡	lun6	lun6	㊀直击拳头。
 	抡拳头	lun6	lun6 gion2 doe2	
-	拳头抡去	lun6	gion2 deo2 lun6 khei9	
 1	lung	lung2	lung2	㊀伸出（四肢、舌头等）。
 1	埋	ma2	ma2	㊀躲藏。
-	埋何横	ma2	ma2 ra2 vang2	
-	埋哪㙮ㄦ	ma2	ma2 lho3 tan	
 	埋呕㙮ㄦ	ma2	ma2 eo3 tan	
+	埋哪㙮ㄦ	ma2	ma2 lho3 tan	
+	埋何横	ma2	ma2 ra2 vang2	
 	mak	mak8	mak8	㊀用棒打。
 1	搣	mhiah7	mhiah7	㊀搓捻。
 	搣开关	mhiah7	mhiah7 khei1 kuan1	
 1	摸	mok8	mok8	㊀探寻。㊁朝向。
-	摸leh着	mok8	mok8 leh8 djiak8	
-	摸thin phang	mok8	mok8 thin1 phang1	
-	摸北边	mok8	mok8 puk7 pian1	
-	摸边里	mok8	mok8 pian1 lhi	
-	摸东边	mok8	mok8 tung1 pian1	
-	摸弗着	mok8	mok8 feh7 djiak8	
-	摸横边	mok8	mok8 wang2 pian9	
-	摸后髋	mok8	mok8 eo3 khun9	
 	摸济手面	mok8	mok8 ci5 xieo3 mian6	
+	摸头前	mok8	mok8 deo2 jian2	
+	摸后髋	mok8	mok8 eo3 khun9	
+	摸弗着	mok8	mok8 feh7 djiak8	
+	摸顺手面	mok8	mok8 jvn6 xieo3 mian6	
+	摸leh着	mok8	mok8 leh8 djiak8	
 	摸落	mok8	mok8 lok8	
 	摸南边	mok8	mok8 nan2 pian1	
-	摸上	mok8	mok8 zong4	
-	摸上门	mok8	mok8 zong6 men9	
-	摸上向	mok8	mok8 zong6 hiang5	
-	摸顺手面	mok8	mok8 jvn6 xieo3 mian6	
-	摸头前	mok8	mok8 deo2 jian2	
-	摸西边	mok8	mok8 xi1 pian1	
-	摸下门	mok8	mok8 o3 men9	
 	摸下向	mok8	mok8 o3 hiang5	
+	摸下门	mok8	mok8 o3 men9	
+	摸边里	mok8	mok8 pian1 lhi	
+	摸北边	mok8	mok8 puk7 pian1	
+	摸thin phang	mok8	mok8 thin1 phang1	
+	摸东边	mok8	mok8 tung1 pian1	
+	摸横边	mok8	mok8 wang2 pian9	
+	摸西边	mok8	mok8 xi1 pian1	
+	摸上	mok8	mok8 zong4	
+	摸上向	mok8	mok8 zong6 hiang5	
+	摸上门	mok8	mok8 zong6 men9	
 1	捺	nah8	nah8	㊀按，压：箇个频道孬望，捺别样去。㊁从，向：～佢㙮ㄦ撩手痒。
 	捺小桩	nah8	nah8 xiao3 ciong9	赌博游戏
 1	攮	nhong3	nhong3	㊀用力扎进，刺进，伸进。
 1	抈	nhvh7	nhvh7	
 	抈断	nhvh7	nhvh7 don4	
-1	捏	niah8	niah8	㊀拿捏：书捏leh手里。㊁攥紧：拳头～来。
-	捏笔	niah8	kho5 pih7	
-	捏拳头	niah8	niah8 gion2 deo2	
 	捏箸	niah8	kho5 dzy6	
+	捏笔	niah8	kho5 pih7	
+1	捏	niah8	niah8	㊀拿捏：书捏leh手里。㊁攥紧：拳头～来。
+	捏拳头	niah8	niah8 gion2 deo2	
 1	掿	niok8	niok8	
 	掿粉	niok8	niok8 fen3	
 	掿衣裳	niok8	niok8 i1 zong2	
 1	扼	nkak7	nkak7	㊀折弯。
+	扼粽	nkak7	nkak7 cung5	
 	扼断	nkak7	nkak7 don4	
 	扼弗断	nkak7	nkak7 feh7 don4	
 	扼弗碎	nkak7	nkak7 feh7 sei5	
-	扼两断	nkak7	nkak7 lhiang3 don9	
 	扼两爿	nkak7	nkak7 lhiang3 ban9	
+	扼两断	nkak7	nkak7 lhiang3 don9	
 	扼碎	nkak7	nkak7 sei5	
-	扼粽	nkak7	nkak7 cung5	
 	纳鞋底	noh8	noh8 ra2 ti3	
-1	挜	o5	o5	
 	硬挜	o5	ngang6 o5	
+1	挜	o5	o5	
+	眼摆㙮ㄦ望	pa3	nkan3 pa3 tan mong6	
 1	摆	pa3	pa3	㊀放着，摆放。㊁看着办。㊂摇摆。
 	摆㙮ㄦ望	pa3	pa3 tan mong6	
-	眼摆㙮ㄦ望	pa3	nkan3 pa3 tan mong6	
 1	迫	pak7	pak7	㊀贴近，靠近：趒边，𠏕猴~~我人里。㊁粘贴：畀张奖状～墙里。
-	迫堆	pak7	pak7 tei9	
 	迫迫人	pak7	pak7 pak7 nin9	
-1	绷	pang1	pang1	㊀张开，撑开。㊁织网。
-	绷蟢网	pang1	pang1 hi3 mhong9	
+	迫堆	pak7	pak7 tei9	
 	蟢网绷起	pang1	hi3 mhong9 pang1 khi	
 	蟢网绷起来	pang1	hi3 mhong9 pang1 khih lei	
+1	绷	pang1	pang1	㊀张开，撑开。㊁织网。
+	绷蟢网	pang1	pang1 hi3 mhong9	
 1	包	pao1	pao1	
 	包脚	pao1	pao1 kiak7	扎蹄
 1	畀	peh7	peh7	㊀给。
 1	搬	pen1	pen1	
-	搬物事	pen1	pen1 meh8 zy6	
 1	畚	pen1	pen1	㊀搬。
-	畚斗	pen1	pen1 teo3	
 	畚箕	pen1	pen1 ki9	
+	搬物事	pen1	pen1 meh8 zy6	
+	畚斗	pen1	pen1 teo3	
 1	派	pha1	pha1	㊀派发，分配。
 	派任务	pha1	pha1 jin6 vu6	
 	脚骨拍开	phak7	kiak7 kueh7 phak7 khei	
 	脚拍开	phak7	kiak7 phak7 khei	
 1	拍	phak7	phak7	㊀分开，掰开。㊁拍照。
-	拍脚	phak7	phak7 kiak7	
 	拍开	phak7	phak7 khei	
+	拍脚	phak7	phak7 kiak7	
 1	攀	phan1	phan1	
 	鞋攀	phan1	ra2 phan9	
 1	配	phei3	phei3	㊀仔细翻找。
 1	批	phi1	phi1	
-	批梨	phi1	phi1 li2	
 	批皮	phi1	phi1 bi9	
 	批苹果	phi1	phi1 bin2 kou3	
 	批糖梗	phi1	phi1 dong2 kuang3	
+	批梨	phi1	phi1 li2	
 1	併	pin5	pin5	㊀合併。
 1	剥	pok7	pok7	㊀去掉外皮或壳。㊁搜刮掠夺。
+	剥皮鱼	pok7	pok7 bi2 ng2	
 	剥炒豆	pok7	pok7 chao3 deo6	
 	剥花生	pok7	pok7 huo1 sang1	
 	剥橘ㄦ	pok7	pok7 kvn9	
-	剥皮鱼	pok7	pok7 bi2 ng2	
 	剥削	pok7	pok7 xiak7	
 1	搬	pon1	pon1	
 	搬屋	pon1	pon1 uk7	
@@ -424,43 +424,43 @@
 1	洒	sa3	sa3	㊀泼洒。
 1	生	sang1	sang1	
 	生火	sang1	sang1 hou3	
-	打扫	sao3	tang3 sao3	
 1	扫	sao3	sao3	
 	扫垃圾	sao3	sao3 leh8 seh7	
+	打扫	sao3	tang3 sao3	
 1	塞	soh7	soh7	㊀藏。
 	塞物事	soh7	soh7 meh8 zy6	
 1	搭	tah7	tah7	㊀支，架：棚~起。㊁共享，分享。
-	搭搭ㄦ	tah7	tah7 tan9	
-	搭搭吃ㄦ	tah7	tah7 tah7 khiung9	
 	搭搭隐	tah7	tah7 tah7 in9	
+	搭搭吃ㄦ	tah7	tah7 tah7 khiung9	
 	搭搭用	tah7	tah7 tah7 yung9	
+	搭搭ㄦ	tah7	tah7 tan9	
 1	担	tan3	tan3	㊀拂拭，擦拭。
 	担埲塕	tan3	tan3 bung2 iung1	
 1	打	tang3	tang3	
-	打的	tang3	tang3 tih7	
-	打电话	tang3	tang3 dian6 wa6	
-	打电脑	tang3	tang3 dian6 nhao3	
-	打篮球	tang3	tang3 lan2 gieo2	
 	打排球	tang3	tang3 ba2 gieo2	
+	打电脑	tang3	tang3 dian6 nhao3	
+	打电话	tang3	tang3 dian6 wa6	
+	打起头	tang3	tang3 khi3 deo9	
+	打篮球	tang3	tang3 lan2 gieo2	
+	打人	tang3	tang3 nin2	
 	打派司	tang3	tang3 pha1 sy1	
 	打屁股	tang3	tang3 phi5 ku3	
+	打算	tang3	tang3 son5	
 	打乒乓	tang3	tang3 thin1 phang9	
-	打起头	tang3	tang3 khi3 deo9	
-	打人	tang3	tang3 nin2	
+	打的	tang3	tang3 tih7	
 	打手机	tang3	tang3 xieo3 ki9	
 	打双打	tang3	tang3 xiong1 tang9	
-	打算	tang3	tang3 son5	
 	打游戏	tang3	tang3 yeo2 hi5	
 	打字	tang3	tang3 zy6	
 1	倒	tao3	tao3	㊀倒。㊁倒闭。
-1	倒	tao5	tao5	㊀倾倒。㊁对调，转移，更换：放~款。
 	放倒款	tao5	fong5 tao5 khuon9	
+1	倒	tao5	tao5	㊀倾倒。㊁对调，转移，更换：放~款。
 1	对	tei3	tei3	
-	对东对西	tei3	tei3 tung1 tei3 xi1	
 	对天碰地	tei3	tei3 thian1 bang6 di6	
-	被抖抖起	teo3	bi4 teo3 teo3 khi	
+	对东对西	tei3	tei3 tung1 tei3 xi1	
 	被抖起	teo3	bi4 teo3 khi	
 	被抖起来	teo3	bi4 teo3 khih lei	
+	被抖抖起	teo3	bi4 teo3 teo3 khi	
 1	抖	teo3	teo3	㊀整理被子。
 	抖被	teo3	teo3 bi4	
 1	咜	tha1	tha1	
@@ -487,15 +487,15 @@
 	体	thi3	thi3	㊀垫着。
 1	掭	thian5	thian5	㊀涂，上色。
 	粜米	thiao1	thiao1 mhi3	
-1	脱	thoh7	thoh7	
 	脱班	thoh7	theh7 pan9	
-	脱落下颔	thoh7	thoh7 lok8 o3 gan4	
+1	脱	thoh7	thoh7	
 	脱衣裳	thoh7	thoh7 i1 zong2	
+	脱落下颔	thoh7	thoh7 lok8 o3 gan4	
 1	托	thok7	thok7	
 1	点	tian3	tian3	
-	点灯	tian3	tian3 ten1	
-	点蜡烛	tian3	tian3 lah8 ciuk7	
 	点香	tian3	tian3 hiang1	
+	点蜡烛	tian3	tian3 lah8 ciuk7	
+	点灯	tian3	tian3 ten1	
 	点洋蜡烛	tian3	tian3 yang2 lah8 ciuk7	
 	掂掂	tian5	tian5	㊀掂量。
 	掂掂向	tian5	tian5 tian hiang	
@@ -518,8 +518,8 @@
 1	绾	uan3	uan3	㊀扶住：车开驶liao，手骨～lao牢，hiang leh𨀤倒。
 1	搲	uo1	uo1	㊀把东西揽到自己前面。㊁剔掉汤水上悬浮的杂物。
 1	餵	v5	v5	
-	餵饭	v5	v5 van6	
 	餵奶	v5	v5 nha1	
+	餵饭	v5	v5 van6	
 1	防	vong2	vong2	㊀扶稳。
 1	滑	wah8	wah8	㊀滑动。
 1	划	wak8	wak8	㊀割。
@@ -528,15 +528,15 @@
 1	削	xiak7	xiak7	
 	削铅笔	xiak7	xiak7 khan3 pih7	
 1	扇	xian5	xian5	
-	扇电风扇	xian5	xian5 dian6 fung1 xian5	
 	扇蒲扇	xian5	xian5 bu2 xian5	
+	扇电风扇	xian5	xian5 dian6 fung1 xian5	
 	扇绕颈	xian5	xian5 niao6 kin3	
 1	收	xieo1	xieo1	㊀收回：衣裳收转来，凉伞收爻。
 	收被	xieo1	xieo1 bi4	
-	收凉伞	xieo1	xieo1 liang2 san5	
-	收阳伞	xieo1	xieo1 yang2 san5	
-	收洋袜	xieo1	xieo1 yang2 mah8	
 	收衣裳	xieo1	xieo1 i1 zong2	
+	收凉伞	xieo1	xieo1 liang2 san5	
+	收洋袜	xieo1	xieo1 yang2 mah8	
+	收阳伞	xieo1	xieo1 yang2 san5	
 1	摏	xiung5	xiung5	
 	摏石头	xiung5	xiung5 jih8 deo2	
 1	刷	xvh7	xvh7	
@@ -547,14 +547,14 @@
 1	yong	yong6	yong6	㊀摇晃。
 1	用	yung6	yung6	
 1	zak	zak8	zak8	
-	zak zang	zak8	zak8 zang9	
 	zak标枪	zak8	zak8 piao1 chiang1	
+	zak zang	zak8	zak8 zang9	
 1	裁	zei2	zei2	
 	zong	zong4	zong4	㊀外表遗传。
-	zong伯ㄦ	zong4	zong4 pang9	
+1	上	zong4	zong4	㊀装填。㊁安装。
+	上子弹	zong4	zong4 cy3 dan6	
+	zong孃孃	zong4	zong4 nhiang1 nhiang	
 	zong孃	zong4	zong4 niang2	
 	zong孃舅	zong4	zong4 niang2 gieo9	
-	zong孃孃	zong4	zong4 nhiang1 nhiang	
+	zong伯ㄦ	zong4	zong4 pang9	
 	zong爷爷	zong4	zong4 ya2 ya9	
-1	上	zong4	zong4	㊀装填。㊁安装。
-	上子弹	zong4	zong4 cy3 dan6
