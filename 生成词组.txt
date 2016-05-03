@@ -1,0 +1,269 @@
+1	驮驮	dou2 dou
+1	驮驮爻	dou2 dou rao
+1	驮驮出	dou2 dou chv
+1	驮驮来	dou2 dou lei
+1	驮驮过	dou2 dou kou
+1	驮出	dou2 chv
+1	驮出来	dou2 chioh lei
+1	驮来	dou2 lei
+1	驮弗来	dou2 feh7 lei2
+1	驮及来	dou2 gih8 lei
+1	驮及弗来	dou2 gih8 feh7 lei2
+1	驮及去	dou2 gih8 khei
+1	驮及giao	dou2 gih8 giao
+1	驮爻	dou2 rao
+1	驮fao	dou2 fao9
+1	驮边	dou2 pian
+1	驮去	dou2 khei
+1	驮弗去	dou2 feh7 khei5
+1	驮走	dou2 ceo
+1	驮djiao	dou2 djiao
+1	驮liao	dou2 liao
+1	驮弗liao	dou2 feh7 liao
+1	驮khao	dou2 khao
+1	驮驮爻	dou2 dou rao
+1	驮眼爻	dou2 nkan rao
+1	驮粒爻	dou2 nhoh rao
+1	驮驮出	dou2 dou chv
+1	举举	kv3 kv
+1	举举起	kv3 kv khi
+1	举举过	kv3 kv kou
+1	举起	kv3 khi
+1	举起来	kv3 khih7 lei
+1	举来	kv3 lei
+1	举弗来	kv3 feh7 lei
+1	捏捏	niah8 niang9
+1	捏捏	niah8 niah
+1	捏捏出	niah8 niah chv9
+1	捏捏起	niah8 niah khi9
+1	捏捏爻	niah8 niah rao
+1	捏捏来	niah8 niah lei2
+1	捏捏过	niah8 niah kou
+1	捏出	niah8 chv
+1	捏出来	niah8 chioh7 lei
+1	捏起	niah8 khi9
+1	捏起来	niah8 khih7 lei
+1	捏来	niah8 lei2
+1	捏弗来	niah8 feh7 lei2
+1	捏及来	niah8 gih8 lei9
+1	捏及弗来	niah8 gih8 feh7 lei2
+1	捏及去	niah8 gih8 khei9
+1	捏及giao	niah8 gih8 giao9
+1	捏爻	niah8 rao9
+1	捏fao	niah8 fao9
+1	捏去	niah8 khei9
+1	捏弗去	niah8 feh7 khei5
+1	捏走	niah8 ceo9
+1	捏djiao	niah8 djiao9
+1	捏liao	niah8 liao9
+1	捏弗liao	niah8 feh7 liao
+1	捏khao	niah8 khao9
+1	捏dao	niah8 dao9
+1	捏牢	niah8 lao9
+1	捏牢牢	niah8 lao2 lao2
+1	捏弗牢	niah8 feh7 lao2
+1	揢揢	kho5 kho
+1	揢揢出	kho5 kho chv
+1	揢揢起	kho5 kho khi
+1	揢揢过	kho5 kho kou
+1	捏捏爻	kho5 kho rao
+1	捏捏来	kho5 kho lei2
+1	揢出	kho5 chv
+1	揢出来	kho5 chioh7 lei
+1	揢起	kho5 khi
+1	揢起来	kho5 khih7 lei
+1	揢来	kho5 lei
+1	揢弗来	kho5 feh7 lei2
+1	揢及来	kho5 gih8 lei
+1	揢及弗来	kho5 gih8 feh7 lei
+1	揢及去	kho5 gih8 khei
+1	揢及giao	kho5 gih8 giao
+1	揢爻	kho5 rao
+1	揢去	kho5 khei
+1	揢弗去	kho5 feh7 khei5
+1	揢走	kho5 ceo
+1	揢djiao	kho5 djiao
+1	揢liao	kho5 liao
+1	揢弗liao	kho5 feh7 liao2
+1	揢khao	kho5 khao
+1	揢牢	kho5 lao
+1	揢牢牢	kho5 lao2 lao2
+1	揢弗牢	kho5 feh7 lao2
+1	爪爪	cao3 cao
+1	爪爪起	cao3 cao khi
+1	爪起	cao3 khi
+1	爪起来	cao3 khih7 lei
+1	爪来	cao3 lei
+1	爪去	cao3 khei
+1	爪牢	cao3 lao
+1	爪牢牢	cao3 lao2 lao2
+1	爪弗牢	cao3 feh7 lao2
+1	绾绾	uan3 uan
+1	绾绾来	uan3 uan lei2
+1	绾起	uan3 khi
+1	绾牢	uan3 lao
+1	绾牢牢	uan3 lao2 lao2
+1	绾弗牢	uan3 feh7 lao2
+1	绾djiao	uan3 djiao
+1	掴掴ㄦ	kuak7 kuang
+1	掴掴	kuak7 kuak
+1	掴掴爻	kuak7 kuak rao
+1	掴掴来	kuak7 kuak lei
+1	掴掴出	kuak7 kuak chv
+1	掴掴过	kuak7 kuak kou
+1	掴掴起	kuak7 kuak khi
+1	掴起	kuak7 khi
+1	掴起来	kuak7 khih7 lei
+1	掴牢	kuak7 lao
+1	掴弗牢	kuak7 feh7 lao2
+1	掴djiao	kuak7 djiao
+1	掴liao	kuak7 liao
+1	掴弗liao	kuak7 feh7 liao2
+1	掴khao	kuak7 khao
+
+1	拍拍	phak7 phak
+1	拍拍爻	phak7 phak rao
+1	拍拍来	phak7 chioh lei
+1	拍拍出	phak7 phak chv
+1	拍拍过	phak7 phak kou
+1	拍拍起	phak7 phak khi
+1	拍出	phak7 chv
+1	拍出来	phak7 chioh lei
+1	拍拍ㄦ	phak7 phang9
+1	拍起	phak7 khi
+1	拍起来	phak7 khih7 lei
+1	拍来	phak7 lei
+1	拍弗来	phak7 feh7 lei2
+1	拍及来	phak7 gih8 lei
+1	拍及弗来	phak7 gih8 feh7 lei2
+1	拍及去	phak7 gih8 khei
+1	拍及giao	phak7 gih8 giao
+1	拍爻	phak7 rao
+1	拍fao	phak7 fao9
+1	拍去	phak7 khei
+1	拍弗去	phak7 feh7 khei5
+1	拍djiao	phak7 djiao
+1	拍liao	phak7 liao
+1	拍弗liao	phak7 feh7 liao
+1	拍khao	phak7 khao
+1	拍djiao	phak7 djiao
+1	扼扼	nkak7 nkak
+1	扼扼过	nkak7 nkak kou
+1	扼扼爻	nkak7 nkak rao
+1	扼眼爻	nkak7 nkan rao
+1	扼粒爻	nkak7 nhoh rao
+1	扼扼出	nkak7 nkak chv
+1	扼起	nkak7 khi
+1	扼起来	nkak7 khih7 lei
+1	扼扼ㄦ	nkak7 nkang
+1	扼来	nkak7 lei
+1	扼及来	nkak7 gih8 lei
+1	扼及弗来	nkak7 gih8 feh7 lei2
+1	扼及去	nkak7 gih8 khei
+1	扼及giao	nkak7 gih8 giao
+1	扼爻	nkak7 rao
+1	扼fao	nkak7 fao9
+1	扼去	nkak7 khei
+1	扼弗去	nkak7 feh7 khei5
+1	扼djiao	nkak7 djiao
+1	扼liao	nkak7 liao
+1	扼弗liao	nkak7 feh7 liao2
+1	扼khao	nkak7 khao1
+1	拗拗	ao5 ao
+1	拗拗过	ao5 ao kou
+1	拗起	ao5 khi
+1	拗起来	ao5 khih7 lei
+1	拗来	ao5 lei
+1	拗弗来	ao5 feh7 lei2
+1	拗及来	ao5 gih8 lei
+1	拗及弗来	ao5 gih8 feh7 lei2
+1	拗及去	ao5 gih8 khei
+1	拗去	ao5 khei
+1	拗弗去	ao5 feh7 khei5
+1	拗djiao	ao5 djiao
+1	拗liao	ao5 liao
+1	拗弗liao	ao5 feh7 liao
+1	拗khao	ao5 khao
+1	抈抈	nhvh7 nhvh
+1	抈抈过	nhvh7 nhvh kou
+1	抈抈来	nhvh7 nhvh lei
+1	抈抈爻	nhvh7 nhvh rao
+1	抈起	nhvh7 khi
+1	抈起来	nhvh7 khih7 lei
+1	抈来	nhvh7 lei
+1	抈弗来	nhvh7 feh7 lei2
+1	抈及来	nhvh7 gih8 lei
+1	抈及去	nhvh7 gih8 khei
+1	抈及giao	nhvh7 gih8 giao
+1	抈爻	nhvh7 rao
+1	抈去	nhvh7 khei
+1	抈弗去	nhvh7 feh7 khei5
+1	抈djiao	nhvh7 djiao
+1	抈liao	nhvh7 liao
+1	抈弗liao	nhvh7 feh7 liao
+1	抈khao	nhvh7 khao
+1	抈dao	nhvh7 dao
+1	抈牢	nhvh7 lao
+1	盘盘来	bon2 bon lei
+1	盘盘起	bon2 bon khi
+1	盘盘	bon2 bon
+1	盘起	bon2 khi
+1	盘起来	bon2 khih7 lei
+1	lung lung	lung2 lung
+1	lung lung出	lung2 lung chv
+1	lung出	lung2 chv
+1	lung出来	lung2 chioh7 lei
+1	lung去	lung2 khei
+1	lung弗去	lung2 feh7 khei5
+1	lung弗liao	lung2 feh7 liao
+1	lung及去	lung gih8 khei
+1	lung khao	lung2 khao
+1	lung去直	lung2 khei5 djih8
+1	搓搓	chou1 chou9
+1	搓搓爻	chou1 chou9 rao
+1	搓眼爻	chou1 nkan rao
+1	搓粒爻	chou1 nhoh rao
+1	搓搓过	chou1 chou9 kou
+1	搓出	chou1 chv
+1	搓出来	chou1 chioh lei
+1	搓起	chou1 khi
+1	搓搓起	chou1 dou khi
+1	搓起来	chou1 khih lei
+1	搓来	chou1 lei
+1	搓弗来	chou1 feh7 lei2
+1	搓及来	chou1 gih lei
+1	搓及弗来	chou1 gih8 feh7 lei2
+1	搓及去	chou1 gih khei
+1	搓及giao	chou1 gih giao
+1	搓爻	chou1 rao
+1	搓fao	chou1 fao9
+1	搓去	chou1 khei
+1	搓弗去	chou1 feh7 khei5
+1	搓走	chou1 ceo
+1	搓djiao	chou1 djiao
+1	搓liao	chou1 liao
+1	搓弗liao	chou1 feh7 liao
+1	搓dao	chou1 dao
+1	搓牢	chou1 lao
+1	搓牢牢	chou1 lao2 lao2
+1	搓弗牢	chou1 feh7 lao2
+1	併併	pin5 pin
+1	併併来	pin5 pin lei
+1	併併爻	pin5 pin rao
+1	併眼爻	pin5 nkan rao
+1	併粒爻	pin5 nhoh rao
+1	併併起	pin5 pin khi
+1	併起	pin5 khi
+1	併併起	pin5 pin khi
+1	併起来	pin5 khih lei
+1	併来	pin5 lei
+1	併弗来	pin5 feh7 lei2
+1	併及来	pin5 gih lei
+1	併及弗来	pin5 gih8 feh7 lei2
+1	併及去	pin5 gih khei
+1	併及giao	pin5 gih giao
+1	併爻	pin5 rao
+1	併fao	pin5 fao9
+1	併liao	pin5 liao
+1	併弗liao	pin5 feh7 liao
+1	併dao	pin5 dao
