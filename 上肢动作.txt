@@ -1,5 +1,4 @@
 	驮	dou2	㊀拿。
-
 	举	kv3
 	举手	kv3 xieo3
 	举重	kv3 djiung4
@@ -25,7 +24,6 @@
 	绕颈pei掴死	niao6 kin3 pei1 kuak7 sy0
 	绕颈畀尔哽	niao6 kin3 peh7 nh3 gang4
 	掴两记	kuak7 lhiang3 ki0
-
 	扇	xian5
 	扇绕颈	xian5 niao6 kin3
 	扇蒲扇	xian5 bu2 xian5
@@ -234,7 +232,6 @@
 	档	tong5	㊀抬起。
 	托	thok7
 	交托	kao1 thok7
-1	托畀	thok7 peh7
 	托老师旁	thok7 lhao3 sy9 bong
 	接	ciah7
 	摆	pa3	㊀放着，摆放。㊁看着办。㊂摇摆。
@@ -387,8 +384,6 @@
 	扛	kong1	㊀抬。
 	扛扛	kong1 kong9
 	扛物事	kong1 meh8 zy6
-1	扛leh动	kong1 leh8 dung4
-1	扛弗动	kong1 feh7 dung4
 	扛	gong6	㊀承受，熬。
 	扛夜	gong6 ya6	熬夜
 	挤扛	ci3 gong6	拥挤
@@ -399,7 +394,6 @@
 	体牢	thi3 lao	㊀垫着。
 	实	jih8	㊀堵住。
 	实牢	jih8 lao	堵住了
-
 	咜	tha1
 	咜老鼠	tha1 lhao3 chy3
 	咜人	tha1 nin2
@@ -488,7 +482,6 @@
 	铰电风扇	kao5 dian6 fung1 xian5
 	找	cao3	㊀退回，补足。
 	找钞票	cao3 chao3 phiao5
-1	找转	cao3 cion3
 	找多少	cao3 tou1 xiao3
 	交	kao1
 	埋	ma2	㊀躲藏。
