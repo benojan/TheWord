@@ -1,65 +1,64 @@
-	过	kou5
-	出	chioh7
-	出厉厉	chioh7 li6 li6
-	出脚	chioh7 kiak7
-	出膊卵	chioh7 pok7 lhon9
-	出膊卵人	chioh7 pok7 lhon3 nin9
-	出胐臀	chioh7 khueh7 dun9
-	出胐臀细	chioh7 khueh7 dun2 xi9
-	盘	bon2
-	脚骨盘起	kiak7 kueh7 bon2 khi
-	蹅	cho3
-	蹅蹅水	cho3 cho3 xv9
-	蹅筋	cho3 kin9
-	跳羊	thiao5 yang9
-	捩地拖	liah8 di6 thou9
-	咜鞋拖	tha1 ra2 thou9
-	蹋	dah8
-	蹋脚	dah8 kiak7
-	蹦	pung5
-	蹿	chon5
-	跳	diao2	三门言diao2
-	跳路	diao2 lu6
-	走	ceo3
-	走路	ceo3 lu6
-	大大	da6 da9
-	大大走	da6 da6 ceo9
-	陌陌走	mhak7 mhak7 ceo9
-	别	biah8
-	别上海	biah8 zong6 hei3
-	别外国	biah8 nga6 kuk7
-	荡	dong6	㊀来回摇晃，走动。
-	荡荡	dong6 dong9
-	荡秋千	dong6 chieo1 chian1
-	荡街	dong6 ka9
-	流流荡荡	lieo6 lieo6 dong6 dong6
-	衝	chiung5
-	慢慢𧼮𧼮	man6 man6 thong1 thong9
-	捱	nga6
-	踢	thih7
-	耢	lao6	㊀用脚踢。㊁用锄头锄。
-	脚耢去	kiak7 lao6 khei9
-	耢脚	lao6 kiak7
-	耢柴	lao6 za2
-	耢笋	lao6 xvn3
-	耢地	lao6 di6
-	踫	ban4	㊀迈步。
-	顿	tun5	㊀用力踩地。
-	逃	dao2
-	徛	gi4
-	转	cion3	㊀转换，改变。
-	转厨	cion3 djv9
-	转日	cion3 nih8
-	转遍	cion3 pian5
-	石	jih8	㊀湿滑。
-	歇	hiah7	㊀歇息，休息。
-	跛	pa3	㊀跛足。
-	跛脚	pa3 kiang9
-	跳	thiao5
-	𨀤	lei6	㊀跌倒。
-	𨀤倒	lei6 tao9
-	擂	lei6	㊀滚动，翻转。
-	擂盘	lei6 bon2
-	递	di6	㊀追赶。
-
-	跍	gou2	㊀下蹲。
+1	踫	ban4	ban4	㊀迈步。
+1	别	biah8	biah8	
+	别外国	biah8	biah8 nga6 kuk7	
+	别上海	biah8	biah8 zong6 hei3	
+1	盘	bon2	bon2	
+	脚骨盘起	bon2	kiak7 kueh7 bon2 khi	
+1	走	ceo3	ceo3	
+	走路	ceo3	ceo3 lu6	
+1	出	chioh7	chioh7	
+	出胐臀细	chioh7	chioh7 khueh7 dun2 xi9	
+	出胐臀	chioh7	chioh7 khueh7 dun9	
+	出脚	chioh7	chioh7 kiak7	
+	出厉厉	chioh7	chioh7 li6 li6	
+	出膊卵人	chioh7	chioh7 pok7 lhon3 nin9	
+	出膊卵	chioh7	chioh7 pok7 lhon9	
+1	衝	chiung1	chiung5	
+1	蹅	cho3	cho3	
+	蹅蹅水	cho3	cho3 cho3 xv9	
+	蹅筋	cho3	cho3 kin9	
+1	蹿	chon5	chon5	
+1	转	cion3	cion3	㊀转换，改变。
+	转厨	cion3	cion3 djv9	
+	转日	cion3	cion3 nih8	
+	转遍	cion3	cion3 pian5	
+	大大走	da6	da6 da6 ceo9	
+	大大	da6	da6 da9	
+1	蹋	dah8	dah8	
+	蹋脚	dah8	dah8 kiak7	
+1	逃	dao2	dao2	
+1	递	di6	di6	㊀追赶。
+1	跳	diao2	diao2	㊀走路。三门言diao2。
+	跳路	diao2	diao2 lu6	
+1	荡	dong6	dong6	㊀来回摇晃，走动。
+	荡秋千	dong6	dong6 chieo1 chian1	
+	荡荡	dong6	dong6 dong9	
+	荡街	dong6	dong6 ka9	
+	流流荡荡	dong6	lieo6 lieo6 dong6 dong6	
+1	徛	gi4	gi4	
+1	跍	gou2	gou2	㊀下蹲。
+1	歇	hiah7	hiah7	㊀歇息，休息。
+1	石	jih8	jih8	㊀湿滑。
+1	过	kou5	kou5	
+	脚耢去	lao6	kiak7 lao6 khei9	
+1	耢	lao6	lao6	㊀用脚踢。㊁用锄头锄。
+	耢地	lao6	lao6 di6	
+	耢脚	lao6	lao6 kiak7	
+	耢笋	lao6	lao6 xvn3	
+	耢柴	lao6	lao6 za2	
+1	𨀤	lei6	lei6	㊀跌倒。
+1	擂	lei6	lei6	㊀滚动，翻转。
+	擂盘	lei6	lei6 bon2	
+	𨀤倒	lei6	lei6 tao9	
+	陌陌走	mhak7	mhak7 mhak7 ceo9	
+1	捱	nga6	nga6	
+1	跛	pa3	pa3	㊀跛足。
+	跛脚	pa3	pa3 kiang9	
+1	蹦	pung5	pung5	
+	咜鞋拖	tha1	tha1 ra2 thou9	
+1	跳	thiao5	thiao5	
+	跳羊	thiao5	thiao5 yang9	
+1	踢	thih7	thih7	
+	慢慢𧼮𧼮	thong1	man6 man6 thong1 thong9	
+	捩地拖	thou1	liah8 di6 thou9	
+1	顿	tun5	tun5	㊀用力踩地。
